@@ -1,0 +1,33 @@
+a {
+  color: #aaa;
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  color: black;
+  border-bottom: 0.95px dotted black; 
+}
+
+.site-title {
+  font-size: 64px;
+  font-weight: 100;
+  font-family: 'PT Sans';
+  text-transform: capitalize;
+  font-weight: 500;
+  margin-top: 4em; 
+  color: #424242; 
+  text-align: center;
+}
+
+.site-navigation {
+  color: #aaa;
+  text-transform: uppercase;
+  font-size: 14px;
+  letter-spacing: 2px;
+  text-indent: 6px;
+  font-family: 'Josefin Sans';
+  font-weight: 300;
+  padding-top: 2em;
+  text-align: center; 
+}

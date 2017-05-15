@@ -1,3 +1,2 @@
 # dishahpatel.github.io
-https://dishahpatel.github.io
-
+The website is a work in progress.

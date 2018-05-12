@@ -4,7 +4,7 @@
   height: 220px;
   background: white;
   top: 25%;
-  left: 30%;
+  left: 32%;
   z-index: 100;
   text-align: center;
   text-decoration: none;
@@ -35,7 +35,7 @@ h1 {
   text-transform: uppercase;
   text-align: center;
   text-decoration: none;
-  padding-top: 40px;
+  padding-top: 35px;
   padding-left: 15px;
 }
 
